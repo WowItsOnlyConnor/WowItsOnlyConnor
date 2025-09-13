@@ -1,5 +1,9 @@
-## Hi there 👋
+### i do silly things with games, like
+- chart things in rhythm games
+- attempt to make my own silly games
+i also do silly things with music
 
+check out [encore](https://github.com/Encore-Developers)
 <!--
 **WowItsOnlyConnor/WowItsOnlyConnor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
